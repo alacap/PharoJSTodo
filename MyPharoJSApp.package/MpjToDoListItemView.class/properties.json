@@ -1,0 +1,20 @@
+{
+	"category" : "MyPharoJSApp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"item",
+		"parent",
+		"liElement",
+		"label",
+		"editBox",
+		"destroyBtn",
+		"checkbox" ],
+	"name" : "MpjToDoListItemView",
+	"pools" : [
+		"PjDomGlobals" ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,26 @@
+{
+	"category" : "MyPharoJSApp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"toggleAll",
+		"inputBox",
+		"itemList",
+		"items",
+		"todoCount",
+		"clearCompleteButton",
+		"filter",
+		"allFilter",
+		"activeFilter",
+		"completedFilter",
+		"footer" ],
+	"name" : "MpjToDoListView",
+	"pools" : [
+		"PjBrowserGlobals",
+		"PjDomGlobals",
+		"PjUniversalGlobals" ],
+	"super" : "Object",
+	"type" : "normal" }

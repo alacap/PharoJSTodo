@@ -1,0 +1,16 @@
+{
+	"category" : "MyPharoJSApp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"status",
+		"complete" ],
+	"name" : "MpjToDoListItem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

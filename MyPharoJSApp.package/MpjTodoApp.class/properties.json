@@ -1,0 +1,14 @@
+{
+	"category" : "MyPharoJSApp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user" ],
+	"name" : "MpjTodoApp",
+	"pools" : [
+		 ],
+	"super" : "PjFileBasedBrowserApp",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "AlanCapewell 7/2/2017 21:42",
+		"initializeFooter" : "AlanCapewell 7/3/2017 13:06",
+		"initializeInputBox" : "AlanCapewell 6/30/2017 13:47",
+		"initializeItemList" : "AlanCapewell 6/30/2017 15:53",
+		"initializeToggleAll" : "AlanCapewell 7/3/2017 12:43",
+		"items" : "AlanCapewell 6/26/2017 15:15",
+		"items:" : "AlanCapewell 6/26/2017 15:15",
+		"refreshItemList" : "AlanCapewell 6/30/2017 13:12",
+		"renderOnDocument" : "AlanCapewell 7/3/2017 12:50",
+		"resetToDoCount" : "AlanCapewell 7/3/2017 13:08",
+		"setFilter:" : "AlanCapewell 7/3/2017 13:14" } }

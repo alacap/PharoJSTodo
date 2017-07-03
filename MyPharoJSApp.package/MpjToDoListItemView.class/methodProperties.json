@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"on:" : "AlanCapewell 6/26/2017 12:55",
+		"on:in:" : "AlanCapewell 6/28/2017 16:31" },
+	"instance" : {
+		"initializeCheckbox" : "AlanCapewell 6/30/2017 13:51",
+		"initializeDestroyButton" : "AlanCapewell 6/29/2017 13:55",
+		"initializeEditBox" : "AlanCapewell 7/2/2017 22:14",
+		"initializeLabel" : "AlanCapewell 7/3/2017 13:11",
+		"initializeLiElement" : "AlanCapewell 6/29/2017 14:42",
+		"initializeWidgets" : "AlanCapewell 6/29/2017 14:41",
+		"item" : "AlanCapewell 6/26/2017 12:53",
+		"item:" : "AlanCapewell 6/26/2017 12:53",
+		"nameUpdated" : "AlanCapewell 7/2/2017 22:22",
+		"parent" : "AlanCapewell 6/28/2017 16:28",
+		"parent:" : "AlanCapewell 6/28/2017 16:28",
+		"renderOnDocument" : "AlanCapewell 6/29/2017 14:42",
+		"widget" : "AlanCapewell 6/29/2017 14:11",
+		"widgetOn:" : "AlanCapewell 6/27/2017 16:52" } }
