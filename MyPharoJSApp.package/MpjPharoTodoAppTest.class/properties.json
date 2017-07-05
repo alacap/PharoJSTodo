@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		"name",
-		"complete" ],
-	"name" : "MpjToDoListItem",
+		 ],
+	"name" : "MpjPharoTodoAppTest",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MpjTodoAppTest",
 	"type" : "normal" }

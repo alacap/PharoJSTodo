@@ -1,5 +1,9 @@
 {
 	"class" : {
-		"appClasses" : "AlanCapewell 6/27/2017 16:30" },
+		"appClasses" : "AlanCapewell 7/5/2017 13:23" },
 	"instance" : {
-		"start" : "AlanCapewell 6/29/2017 09:55" } }
+		"initialize" : "AlanCapewell 7/4/2017 16:05",
+		"initializeFromStorage" : "AlanCapewell 7/5/2017 12:57",
+		"initializeRouting" : "AlanCapewell 7/4/2017 15:59",
+		"root" : "AlanCapewell 7/5/2017 12:59",
+		"start" : "AlanCapewell 7/4/2017 14:51" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "MyPharoJSApp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"app",
+		"todoInput",
+		"items",
+		"toggleAllBtn",
+		"clearCompletedBtn" ],
+	"name" : "MpjTodoAppTest",
+	"pools" : [
+		 ],
+	"super" : "PjWebAppTestCase",
+	"type" : "normal" }

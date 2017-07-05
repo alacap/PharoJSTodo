@@ -1,5 +1,0 @@
-rendering
-widget
-
-	^liElement 
-	

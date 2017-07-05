@@ -1,4 +1,9 @@
 as yet unclassified
 appClasses
 	<pharoJsSkip>
-	^super appClasses, { PjUser. MpjToDoList. MpjToDoListView. MpjToDoListItem. MpjToDoListItemView }
+	^ super appClasses
+		,
+			{
+			MpjToDoListView.
+			MpjToDoListItem.
+			MpjToDoListItemView}

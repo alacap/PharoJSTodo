@@ -1,4 +1,4 @@
-accessing
+initializing
 initializeFooter
 	footer := document getElementById: #footer.
 	todoCount := document getElementById: #todoCount.
@@ -16,21 +16,3 @@ initializeFooter
 	allFilter := document getElementById: #allFilter.
 	activeFilter := document getElementById: #activeFilter.
 	completedFilter := document getElementById: #completedFilter
-	"allFilter addEventListener: #click block: [ 
-		filter := #all.
-		allFilter className: 'selected'.
-		activeFilter className: ''.
-		completedFilter className: ''. 
-		self refreshItemList ].
-	activeFilter addEventListener: #click block: [ 
-		filter := #active.
-		allFilter className: ''.
-		activeFilter className: 'selected'.
-		completedFilter className: ''. 
-		self refreshItemList ].
-	completedFilter addEventListener: #click block: [ 
-		filter := #completed.
-		allFilter className: ''.
-		activeFilter className: ''.
-		completedFilter className: 'selected'. 
-		self refreshItemList ]."

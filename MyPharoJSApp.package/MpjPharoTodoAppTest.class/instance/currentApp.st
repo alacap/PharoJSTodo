@@ -1,0 +1,3 @@
+testing
+currentApp
+	^ MpjTodoApp currentInstance

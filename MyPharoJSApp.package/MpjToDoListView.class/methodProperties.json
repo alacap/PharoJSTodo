@@ -2,14 +2,25 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "AlanCapewell 7/2/2017 21:42",
-		"initializeFooter" : "AlanCapewell 7/3/2017 13:06",
+		"activeFilter" : "AlanCapewell 7/4/2017 14:58",
+		"allFilter" : "AlanCapewell 7/4/2017 14:58",
+		"clearCompleteButton" : "AlanCapewell 7/4/2017 14:58",
+		"completedFilter" : "AlanCapewell 7/4/2017 14:58",
+		"filter" : "AlanCapewell 7/4/2017 14:58",
+		"filter:" : "AlanCapewell 7/4/2017 14:58",
+		"footer" : "AlanCapewell 7/4/2017 14:58",
+		"initialize" : "AlanCapewell 7/4/2017 16:00",
+		"initializeFooter" : "AlanCapewell 7/4/2017 14:59",
 		"initializeInputBox" : "AlanCapewell 6/30/2017 13:47",
 		"initializeItemList" : "AlanCapewell 6/30/2017 15:53",
 		"initializeToggleAll" : "AlanCapewell 7/3/2017 12:43",
+		"inputBox" : "AlanCapewell 7/4/2017 14:58",
+		"itemList" : "AlanCapewell 7/4/2017 14:58",
 		"items" : "AlanCapewell 6/26/2017 15:15",
 		"items:" : "AlanCapewell 6/26/2017 15:15",
 		"refreshItemList" : "AlanCapewell 6/30/2017 13:12",
 		"renderOnDocument" : "AlanCapewell 7/3/2017 12:50",
 		"resetToDoCount" : "AlanCapewell 7/3/2017 13:08",
-		"setFilter:" : "AlanCapewell 7/3/2017 13:14" } }
+		"setFilter:" : "AlanCapewell 7/3/2017 13:14",
+		"todoCount" : "AlanCapewell 7/4/2017 14:58",
+		"toggleAll" : "AlanCapewell 7/4/2017 14:58" } }
