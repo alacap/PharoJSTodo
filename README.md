@@ -1,5 +1,5 @@
 # PharoJSTodo
-I am an implementation of Todomvc in Pharo JS (An awesome piece of work by Noury Baraquadi and Dave Mason - Thank you guys!).
+I am an implementation of Todomvc in Pharo JS (An awesome piece of work by Noury Bouraqadi and Dave Mason - Thank you guys!).
 
 In order to run me you need to load PharoJS into a Pharo image.  You can then clone the repository and use a filetree
 repository in Monticello to load the code.
