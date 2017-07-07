@@ -1,11 +1,6 @@
 accessing
-setFilter: myLoc
-	| myHash index |
-	index := myLoc indexOf: $#.
-	(index > 0 and: [ index + 3 < myLoc size ])
-		ifTrue: [ myHash := myLoc copyFrom: index + 2 to: myLoc size ]
-		ifFalse: [ myHash := 'all' ].
-	filter := myHash asSymbol.
+setFilter: aFilter
+	filter := aFilter.
 	filter = #all
 		ifTrue: [ allFilter className: 'selected'.
 			activeFilter className: ''.

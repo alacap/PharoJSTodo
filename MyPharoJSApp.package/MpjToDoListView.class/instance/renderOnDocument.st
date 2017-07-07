@@ -4,7 +4,7 @@ renderOnDocument
 	self initializeItemList.
 	self initializeToggleAll.
 	self initializeInputBox.
-	self setFilter: location href.
+	self setFilter: #all.
 	header := document getElementById: #header.
 	canvas := document getElementById: #mainSection.
 	header appendChild: inputBox.

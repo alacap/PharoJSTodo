@@ -1,7 +1,18 @@
 initializing
 initializeRouting
-		window
-		addEventListener: #hashchange
-		block: [ :event | 
-			root setFilter: event newURL.
+	router
+		addRoute: '/'
+		block: [ root setFilter: #all.
 			root refreshItemList ].
+	router
+		addRoute: '!/'
+		block: [ root setFilter: #all.
+			root refreshItemList ].
+	router
+		addRoute: '/completed'
+		block: [ root setFilter: #completed.
+			root refreshItemList ].
+	router
+		addRoute: '/active'
+		block: [ root setFilter: #active.
+			root refreshItemList ]

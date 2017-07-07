@@ -1,0 +1,15 @@
+{
+	"category" : "MyPharoJSApp-router",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AlanCapewell 7/6/2017 17:13",
+	"instvars" : [
+		"url",
+		"block" ],
+	"name" : "MpjRoute",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
